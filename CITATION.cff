@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "GMAIS Framework: Governed Multi-Agent Intelligence System"
+message: "If you use or reference this framework, please cite it as below."
+type: generic
+authors:
+  - family-names: Tyler
+    given-names: Michael
+date-released: 2026-04-17
+version: "1.0"
+keywords:
+  - governed multi-agent intelligence system
+  - GMAIS
+  - RGIS
+  - V9 governance
+  - human-AI collaboration
+  - AI governance
+  - multi-agent systems
+  - continuity-oriented AI systems
+  - AI systems architecture
+license: "All rights reserved"
