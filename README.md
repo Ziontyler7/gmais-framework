@@ -16,7 +16,7 @@ It is intended to make the work easier to find, evaluate, cite, and connect acro
 
 **GMAIS** stands for **Governed Multi-Agent Intelligence System**.
 
-In public-safe terms, GMAIS describes a structured approach to coordinating AI systems through governance, role separation, context boundaries, continuity discipline, and human approval controls.
+In public-safe terms, GMAIS describes a structured approach to coordinating AI systems through governance, role separation, context boundaries, continuity discipline, validation, and human approval controls.
 
 ### RGIS
 
@@ -26,7 +26,7 @@ In public-safe terms, RGIS describes the relational layer of governed AI behavio
 
 ### V9 Governance
 
-**V9** refers to a governance model associated with validation before execution, continuity preservation, and constraint-aware system behavior.
+**V9** refers to a governance model associated with validation before execution, continuity preservation, constraint-aware system behavior, and explicit human authority over consequential changes.
 
 ## Public Position
 
@@ -43,6 +43,10 @@ This framework is supported by controlled authorship records prepared in April 2
 - [`docs/edios-governed-cognitive-architecture-overview.md`](docs/edios-governed-cognitive-architecture-overview.md)
 
 These documents are included to preserve the authorship chain and public-source continuity. They are not a source-code release.
+
+## Applied Context
+
+GMAIS and related governance concepts inform Michael Tyler's broader work in human-centered AI architecture and private product development. This repository remains a public authorship and citation record and does not disclose private implementation pathways, prompts, memory systems, internal schemas, orchestration bindings, or protected source code.
 
 ## Disclosure Boundary
 
@@ -65,6 +69,11 @@ The purpose is to establish public authorship and framework clarity without disc
 As AI systems become more capable, the central challenge is no longer raw output alone. The harder problem is how to preserve continuity, governance, accountability, trust, and human authority across extended AI workflows.
 
 GMAIS is one public framework for discussing that problem.
+
+## Reference Documents
+
+- [`docs/glossary.md`](docs/glossary.md) — public-safe definitions for core governance concepts.
+- [`VERSION_HISTORY.md`](VERSION_HISTORY.md) — public framework chronology and documentation releases.
 
 ## Citation
 
